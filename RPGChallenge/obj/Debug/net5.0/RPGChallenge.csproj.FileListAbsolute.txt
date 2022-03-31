@@ -1,0 +1,16 @@
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\bin\Debug\net5.0\RPGChallenge.exe
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\bin\Debug\net5.0\RPGChallenge.deps.json
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\bin\Debug\net5.0\RPGChallenge.runtimeconfig.json
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\bin\Debug\net5.0\RPGChallenge.runtimeconfig.dev.json
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\bin\Debug\net5.0\RPGChallenge.dll
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\bin\Debug\net5.0\RPGChallenge.pdb
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\obj\Debug\net5.0\RPGChallenge.csproj.AssemblyReference.cache
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\obj\Debug\net5.0\RPGChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\obj\Debug\net5.0\RPGChallenge.AssemblyInfoInputs.cache
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\obj\Debug\net5.0\RPGChallenge.AssemblyInfo.cs
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\obj\Debug\net5.0\RPGChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\obj\Debug\net5.0\RPGChallenge.dll
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\obj\Debug\net5.0\refint\RPGChallenge.dll
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\obj\Debug\net5.0\RPGChallenge.pdb
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\obj\Debug\net5.0\RPGChallenge.genruntimeconfig.cache
+C:\Users\Xxpir\OneDrive\Desktop\Professionnel\RpgChallenge\RPGChallenge\obj\Debug\net5.0\ref\RPGChallenge.dll
