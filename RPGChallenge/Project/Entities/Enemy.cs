@@ -26,12 +26,15 @@ namespace RPGChallenge.Project.Entities
                 if (choice >= 75)
                 {
                     nextMove = MoveType.MagicalAttack;
+                    stance = Stance.Attack;
                     return;
                 }
                 nextMove = MoveType.PhysicalAttack;
+                stance = Stance.Attack;
                 return;
             }
             nextMove = MoveType.Defend;
+            stance = Stance.Defense;
         }
     }
 }

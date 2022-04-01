@@ -8,10 +8,11 @@ namespace RPGChallenge.Project.Entities
 {
     internal abstract class Entity
     {
-        protected Stance stance { get; private set; }
-
-
+        public Weapon weapon { get; set; }
+        public Stance stance { get; protected set; }
         public MoveType nextMove { get; protected set; }
+
+
         public string name { get; private set; }
         public double HP { get; private set; }
         public double MP { get; private set; }
@@ -83,7 +84,7 @@ namespace RPGChallenge.Project.Entities
                 case DamageType.True:
                     return 0;
                 default:
-                    throw new Exception("< Stance > is not initialized");
+                    throw new Exception("< DamageType > is not initialized");
             }
         }
         #endregion

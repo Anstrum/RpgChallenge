@@ -25,15 +25,17 @@ namespace RPGChallenge.Project.Entities
             {
                 case 0:
                     nextMove = MoveType.PhysicalAttack;
+                    stance = Stance.Attack;
                     break;
                 case 1:
                     nextMove = MoveType.MagicalAttack;
+                    stance = Stance.Attack;
                     break;
                 case 2: default:                
                     nextMove = MoveType.Defend;
+                    stance = Stance.Defense;
                     break;
             }
-
         }
     }
 }

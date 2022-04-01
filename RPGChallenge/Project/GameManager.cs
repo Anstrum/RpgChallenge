@@ -18,6 +18,8 @@ namespace RPGChallenge.Project
         {
             player = new Player("Nanaka");
             enemy = new Enemy("Takashki");
+
+
         }
         public void Run()
         {
@@ -32,10 +34,24 @@ namespace RPGChallenge.Project
                 enemy.MakeChoice();
                 player.MakeChoice();
 
+                Console.Clear();
+                Console.WriteLine("Your stance is: " + player.stance.ToString());
+                Console.WriteLine("The enemy's stance is: " + enemy.stance.ToString());
+                Console.ReadKey();
+
                 player.PlayChoice(enemy);
                 enemy.PlayChoice(player);
             }
-
+            Console.Clear();
+            if (player.IsDead())
+            {
+                Console.WriteLine("You died");
+            }
+            if (enemy.IsDead())
+            {
+                Console.WriteLine("your oponent died");
+            }
         }
     }
 }
+ 
