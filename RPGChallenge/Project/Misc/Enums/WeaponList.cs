@@ -6,6 +6,19 @@ using System.Threading.Tasks;
 
 namespace RPGChallenge.Project
 {
+
+    internal enum WeaponClass
+    {
+        DoubleSword,
+        SwordAndShield,
+        Staff,
+        MagicGloves,
+        SilverShield,
+        Spear,
+        Wand,
+    }
+
+
     internal static class WeaponList
     {
         private static List<string> weaponList = new List<string>() { ""};
@@ -14,13 +27,7 @@ namespace RPGChallenge.Project
             return weaponList;
         }
 
-
-        public struct Weapon
-        {
-            string name;
-        }
-
-        public static Weapon GetWeapon(string _weaponName)
+        public static Weapon GetWeaponStats(string _weaponName)
         {
             switch(_weaponName)
             {
